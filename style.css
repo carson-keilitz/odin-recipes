@@ -1,0 +1,25 @@
+.recipebox {
+    display: block;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    width: 600px;
+    height: 800px;
+    text-align: center;
+}
+.recipetitle {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: slateblue;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.recipelist {
+    list-style-type: none;
+    margin-top: 250px;
+}
+li {
+    margin: 20px 0px;;
+}
+li a {
+    color: black;
+}
